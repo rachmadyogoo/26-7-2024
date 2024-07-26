@@ -1,0 +1,12 @@
+
+.navbar-nav .nav-item {
+    border: 1px solid #000; /* Adjust the color and width as needed */
+}
+
+#gambaragen {
+    width: 100%;
+    height: auto;
+}
+#logo{
+    border-radius: 100%;
+}
